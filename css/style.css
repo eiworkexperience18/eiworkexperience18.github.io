@@ -14,3 +14,12 @@ pre {
         box-shadow: none
     }
 }
+
+:root {
+    --brand-color: #30c2db;
+    --brand-secondary: #ef4275;
+}
+
+.bg-primary {
+    background-color: var(--brand-color) !important;
+}
