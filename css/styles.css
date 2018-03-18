@@ -1,0 +1,59 @@
+/**
+ * Site styles
+ */
+
+/**
+ * Site header
+ */
+
+.site-header {
+    background-color: lightblue;
+}
+
+/**
+ * Intro section styles
+ *
+ * Start all rules with .section-intro
+ */
+
+.section-intro {
+    background-color: lightcoral;
+}
+
+/**
+ * Wishlist section styles
+ *
+ * Start all rules with .section-wishlist
+ */
+
+.section-wishlist {
+    background-color: lightgreen;
+}
+
+/**
+ * Gallery section styles
+ *
+ * Start all rules with .section-gallery
+ */
+
+.section-gallery {
+    background-color: lightseagreen;
+}
+
+/**
+ * About section styles
+ *
+ * Start all rules with .section-about
+ */
+
+.section-about {
+    background-color: lightgoldenrodyellow;
+}
+
+/**
+ * Site footer
+ */
+
+.site-footer {
+    background-color: lightpink;
+}

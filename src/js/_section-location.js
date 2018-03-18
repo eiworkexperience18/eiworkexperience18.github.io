@@ -1,3 +1,0 @@
-/**
- * Location section js
- */
